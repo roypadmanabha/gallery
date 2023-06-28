@@ -103,11 +103,5 @@ body {
       font-size: 12px;
     }
   }
-  .swiper-pagination {
-    color: white; /* Set the color to white */
-  }
-  
-  .swiper-pagination .swiper-pagination-bullet {
-    background-color: white; /* Set the bullet background color to white */
-  }
+ 
   
